@@ -1,4 +1,4 @@
-class CommitTeams < Formula
+class Committeams < Formula
   desc "Interactive Git commit message generator for teams with custom templates"
   homepage "https://github.com/xpmxf4/homebrew-committeams"
   url "https://github.com/xpmxf4/homebrew-committeams/raw/main/commitTeams.sh"
